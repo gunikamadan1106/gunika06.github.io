@@ -61,13 +61,6 @@ That's why I'm building analytics skills alongside my marketing work. I want to 
 - **Approach:** Researched topics and wrote content on culture and trends.
 - **Tools used:** Research, editorial writing, content planning
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gunikamadan1106&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunikamadan1106&layout=compact&theme=default&hide_border=true" alt="Top languages">
-</p>
-
 ## 🎯 Open To
 
 Internships in **marketing** and **organising**, especially in social media, influencer marketing, partnerships, and event or team management.
