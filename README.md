@@ -60,7 +60,45 @@ That's why I'm building analytics skills alongside my marketing work. I want to 
 - **Business problem:** Publications need clear, engaging writing to attract and keep readers.
 - **Approach:** Researched topics and wrote content on culture and trends.
 - **Tools used:** Research, editorial writing, content planning
+## 💼 Internships
 
+| Role | Organisation | Duration | What I did |
+|---|---|---|---|
+| **Social Media Marketing Intern** | PVR Limited, Gurugram | Jul 2026 – Sep 2026 | Developed movie promotion concepts, wrote influencer scripts, coordinated with **50+ creators** across film campaigns, and contributed ideas for the PVR UNCUT broadcast channel |
+| **Marketing & E-commerce Intern** | The Culture Gully | Jul 2025 – Aug 2025 | Wrote weekly articles on Indian culture and heritage, and researched artisans and regional artifact pricing |
+| **Social Media Marketing Intern** | The Social Sphere, Delhi | Apr 2025 – May 2025 | Designed posts, reels and stories, and handled scripting, filming and visual direction for content shoots |
+| **Marketing Intern** | Cloud Counselage Pvt. Ltd. | Mar 2025 – Apr 2025 | Prospected and qualified leads on LinkedIn, managed data on HubSpot CRM, and supported employer advocacy |
+| **Virtual Intern** | IIDE – The Digital School | Aug 2024 – Sep 2024 | Hands-on practice in SEO, content writing, social media marketing and data research |
+
+## 🏛️ College Societies & Leadership
+
+| Role | Society | Duration | Highlights |
+|---|---|---|---|
+| **Marketing Head** | GAEE J&M | Jul 2025 – Jul 2026 | Led the marketing team, planned content, strategised event promotions and coordinated event coverage |
+| **Marketing Team Member** | GAEE J&M | Oct 2024 – Jul 2025 | Created and edited reels and posts, and developed trend-led promotional ideas |
+| **Senior Consultant** | 180 Degrees Consulting JMC | Jul 2025 – Sep 2025 | Worked in client acquisition, finding and reaching out to ideal prospects |
+| **Junior Consultant** | 180 Degrees Consulting JMC | Oct 2024 – Jun 2025 | Developed content ideas and marketing strategies, and curated case studies for the magazine |
+| **Research & Development Member** | Management Interaction Cell, JMC | Oct 2024 – Jul 2025 | Secured event sponsors for Envisage 5.0 by identifying and approaching brands |
+| **Co-Chairperson** | Rotaract Club of New Delhi | Jul 2024 – Aug 2024 | Co-organised the flagship project Bandhan 6.0, selling **600+ rakhis** and raising **₹61,000** for UDAI NGO |
+| **Board of Director (Content Writing)** | Rotaract Club of New Delhi | 2023 – 2024 | Led content writing for the club |
+| **Debater** | JMC Model United Nations Society | Sep 2023 – Apr 2024 | Took part in MUN debates and conferences |
+| **Volunteer** | JMC Education Program | Sep 2023 – Apr 2025 | Taught underprivileged children from the nearby Bapu Dham colony every day |
+
+## 🎓 Certifications
+
+- 📋 Professional Certificate in **Agile and Scrum** (MTF Portugal)
+- 🤖 **Google AI Essentials**
+- 📱 **Digital Marketing Mastery: Instagram & Facebook Ads** (IIT Delhi, Rendezvous 2024)
+- 👥 **Human Resource Management** (IMF with edX)
+- 🛒 **Digital Marketing & E-commerce** (Google)
+- 💹 **Financial Modeling and Valuation Certification**
+
+## 🎭 Extra Curriculars
+
+- 💃 **Sangeet Bhushan (Diploma), Kathak Dance:** final year
+- ✍️ **Writer:** Hindi poetry on my Instagram writing account, running since 2022
+- 🏆 **Youth Power 2021–22 (The Global Times):** First Runner-Up with Team Nindiya
+- 🏠 **House Captain and Student Council Core Team Lead:** Amity International School, Pushp Vihar
 ## 🎯 Open To
 
 Internships in **marketing** and **organising**, especially in social media, influencer marketing, partnerships, and event or team management.
